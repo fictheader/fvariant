@@ -1,9 +1,11 @@
-# FVariant
+FVariant
+--------
+
 FVariant is an explicit version of QVariant.
 
-## Author
+### Author
 kozmof
 
-## License
+### License
 MIT
 
